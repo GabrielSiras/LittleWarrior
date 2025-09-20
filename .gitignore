@@ -1,0 +1,12 @@
+# Godot folders
+.import/
+.export/
+.cache/
+
+# Godot files
+*.import
+*.godot-export
+
+# System files
+.DS_Store
+Thumbs.db
