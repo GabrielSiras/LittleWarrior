@@ -1,9 +1,8 @@
-res://scenes/coin.tscn::d2ec5eb93c2c89838dea08a0f4d45cc2::1747524544::res://.godot/exported/133200997/export-96b2131180b71dd158e52c5527d22dd4-coin.scn
+res://scenes/coin.tscn::c279526ccd9cf9589dd8a1b24e966d06::1757986263::res://.godot/exported/133200997/export-96b2131180b71dd158e52c5527d22dd4-coin.scn
 res://scenes/dente.tscn::7db08e0b9d772bc458b217e5a8b02301::1747516394::res://.godot/exported/133200997/export-317183f62b37548b5def53c4d9495fbe-dente.scn
-res://scenes/game.tscn::9e991ef5f2554502019a2ed7eab78214::1747524981::res://.godot/exported/133200997/export-c2a7af834e91ff64325daddf58e45dc0-game.scn
-res://scenes/killzone.tscn::c474b3d4e4527dfcfb4ec8ae5789a7ee::1747524544::res://.godot/exported/133200997/export-494bf1445653c44a49a39c8f8b1ce8d0-killzone.scn
-res://scenes/platform.tscn::47be94f4b3ec6be8323fec36d4c11650::1747524544::res://.godot/exported/133200997/export-cc2f727180cd42d9c13434cb55b1ce69-platform.scn
-res://scenes/player.tscn::30d512302bc195696c71694f65c8cd4b::1747524544::res://.godot/exported/133200997/export-234fb6894ec6226e856ab7f825500d3d-player.scn
+res://scenes/game.tscn::9e991ef5f2554502019a2ed7eab78214::1757986263::res://.godot/exported/133200997/export-c2a7af834e91ff64325daddf58e45dc0-game.scn
+res://scenes/killzone.tscn::c474b3d4e4527dfcfb4ec8ae5789a7ee::1757986263::res://.godot/exported/133200997/export-494bf1445653c44a49a39c8f8b1ce8d0-killzone.scn
+res://scenes/platform.tscn::47be94f4b3ec6be8323fec36d4c11650::1757986263::res://.godot/exported/133200997/export-cc2f727180cd42d9c13434cb55b1ce69-platform.scn
+res://scenes/player.tscn::30d512302bc195696c71694f65c8cd4b::1757986263::res://.godot/exported/133200997/export-234fb6894ec6226e856ab7f825500d3d-player.scn
 res://scenes/music.tscn::911b3276ab386d86652aa2a3d7de30c6::1747523629::res://.godot/exported/133200997/export-bfd8027ae1117ff610be6f2619a76089-music.scn
-res://scenes/slime.tscn::90aab70650b65e9601fd47f38346fdb8::1747524544::res://.godot/exported/133200997/export-cfec31ac835903e5b6c8af87b017aecf-slime.scn
-res://default_bus_layout.tres::2ff8a03d22a17f97ca91225b29851783::1747523598::res://.godot/exported/133200997/export-19246414aa9fb561ced4b8dce477acec-default_bus_layout.res
+res://scenes/slime.tscn::90aab70650b65e9601fd47f38346fdb8::1757986263::res://.godot/exported/133200997/export-cfec31ac835903e5b6c8af87b017aecf-slime.scn

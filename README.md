@@ -1,10 +1,10 @@
-# 🗡️ Jogo de plataforma 2D - Little Warrior
+# 🗡️ Little Warrior
 
 Jogo desenvolvido com a engine **Godot** como projeto pessoal.
 
 ## 🎮 Sobre o jogo
 
-**Little Warrior** é um jogo de ação 2D plataforma no qual o jogador controla um pequeno guerreiro enfrentando obstáculos, inimigos e coletando moedas para adquirir a vitória.
+"Little Warrior" é um jogo 2D de plataforma onde o jogador controla um pequeno guerreiro que precisa esquivar de um inimigo, pular entre as plataformas e coletar as moedas para vencer.
 
 ## 🚀 Como jogar
 
@@ -24,10 +24,10 @@ Jogo desenvolvido com a engine **Godot** como projeto pessoal.
 - GDScript
 
 ## 📖 Como Jogar
-
-AD: movimentar o personagem
-SPACE: pular com o personagem
+- A & D: movimentar o personagem
+- <- & ->: movimentar o personagem
+- SPACEBAR: pular com o personagem
 
 ## 📃 Licença
 
-Este projeto está licenciado sob a Licença MIT – veja o arquivo [LICENSE](LICENSE) para mais informações.
+Este projeto está licenciado sob a Licença MIT – veja o arquivo [LICENSE](LICENSE) para detalhes.

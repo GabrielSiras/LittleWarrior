@@ -1,5 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1758403552
+::res://::1758405224
+default_bus_layout.tres::AudioBusLayout::-1::1747523598::0::1::::<><><>0<>0<><>::
+export_presets.cfg::TextFile::-1::1747703624::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D::7137344355776864080::1746737310::1758405229::1::::<><><>0<>0<>437c2966845f442ad981817b7fcd7778<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 Readme.md::TextFile::-1::1758403458::0::1::::<><><>0<>0<><>::
 ::res://assets/::1746737566
 ::res://assets/fonts/::1746737566
@@ -22,6 +25,7 @@ platforms.png::CompressedTexture2D/CompressedTexture2D::4583997015958072926::174
 slime_green.png::CompressedTexture2D/CompressedTexture2D::3273127029801382839::1746737566::1746737566::1::::<><><>0<>0<>66454c5bacab8c0e19cb57041ee36c5c<>res://.godot/imported/slime_green.png-f6349164bf3a0f5189bb927b97af9c58.ctex::
 slime_purple.png::CompressedTexture2D/CompressedTexture2D::4608319039143978013::1746737566::1746737566::1::::<><><>0<>0<>dd42317c1ce0a90f872310c067bf684f<>res://.godot/imported/slime_purple.png-26dc5ddef235ce6a400e78e0d532b050.ctex::
 world_tileset.png::CompressedTexture2D/CompressedTexture2D::1856270577089474518::1746737566::1746737566::1::::<><><>0<>0<>5e7357ecdd267ead891373c5ab7ba9db<>res://.godot/imported/world_tileset.png-61a32465f33c3d9d3bfecb75b6485009.ctex::
+::res://realease/::1758403770
 ::res://scenes/::1757986263
 coin.tscn::PackedScene/PackedScene::6255938450384019504::1757986263::0::1::::<><><>0<>0<><>::uid://bwofa4wd7a67i::::res://scripts/coin.gd<>uid://dgxh4thspct17::::res://assets/sprites/coin.png<>uid://8cu5jw7r8os7::::res://assets/sounds/coin.wav
 dente.tscn::PackedScene/PackedScene::4314489246515972200::1747516394::0::1::::<><><>0<>0<><>::uid://c0eulcdr4yw41::::res://assets/sprites/esse.png<>uid://d2lgj466fh5s5::::res://scenes/killzone.tscn
